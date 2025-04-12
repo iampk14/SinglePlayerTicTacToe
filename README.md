@@ -2,6 +2,7 @@
 
 A responsive and fun single-player Tic Tac Toe game built using HTML, CSS, and JavaScript. You play as **X**, and the computer opponent plays perfectly using the **Minimax algorithm** — making it impossible to beat!
 
+### 🔗 [Play the Game Live](https://iampk14.github.io/SinglePlayerTicTacToe/)
 
 ## ✨ Features
 - 3x3 classic Tic Tac Toe board  
